@@ -30,55 +30,33 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
-    name       = "Features"
-    identifier = "menu.features"
-    url        = "/img/template-easy-customize.png"
+    name       = "Programa"
+    identifier = "Programa"
+    url        = "/Programa"
+    weight     = 2
+
+[[menu.main]]
+    identifier  = "Inscripción"
+    name       = "Inscripción"
+    url        = "/inscripcion/"
     weight     = 3
 
 [[menu.main]]
-    name       = "Shortcodes"
-    identifier = "section.shortcodes"
-    url        = ""
-    weight     = 1
-    parent     = "menu.features"
-    post       = 1
+    identifier  = "Lista de correos"
+    name       = "Lista de correos"
+    url        = "/lista-de-correos/"
+    weight     = 4
 
 [[menu.main]]
-    name       = "Header variations"
-    identifier = "section.headervariations"
-    url        = ""
-    weight     = 2
-    parent     = "menu.features"
-    post       = 2
+    name       = "Recursos"
+    identifier = "Recursos"
+    url        = "/recursos/"
+    weight     = 6
 
 [[menu.main]]
-    name       = "Accordions"
-    url        = ""
-    weight     = 1
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Default Sticky Header"
-    url        = ""
-    weight     = 1
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "No Sticky Header"
-    url        = ""
-    weight     = 2
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "Light Header"
-    url        = ""
-    weight     = 3
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "menu.blog"
-    url        = "/blog/"
+    name       = "Oración"
+    identifier = "Oración"
+    url        = "/oracion/"
     weight     = 5
 
 [[menu.main]]
