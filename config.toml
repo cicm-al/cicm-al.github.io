@@ -155,7 +155,7 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>La CICM AL es una conferencia anual de mujeres y hombres que tienen un interés comón en computación y misiones. Compartimos la visión de una cooperación para el uso eficaz de tecnología para llevar el evangelio a cada nación. </p>"
+    about_us = "<p>La CICM AL es una conferencia anual de mujeres y hombres que tienen un interés común en computación y misiones. Compartimos la visión de una cooperación para el uso eficaz de tecnología para llevar el evangelio a cada nación. </p>"
     copyright = "Copyright (c) 2022, CICM AL"
 
     # Format dates with Go's time formatting
@@ -217,7 +217,7 @@ pluralizelisttitles = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
-    subtitle = "La CICM AL es una conferencia anual de mujeres y hombres que tienen un interés comón en computación y misiones. Compartimos la visión de una cooperación para el uso eficaz de tecnología para llevar el evangelio a cada nación."
+    subtitle = "La CICM AL es una conferencia anual de mujeres y hombres que tienen un interés comón en computación y misiones. Compartimos la visión de una cooperación para el uso eficaz de tecnología con el fin de llevar el evangelio a cada nación."
 
 [params.attenders]
     enable = true
@@ -225,8 +225,8 @@ pluralizelisttitles = false
     # All attenders are defined in their own files. You can find example items
     # at 'exampleSite/data/attenders'.
     # For more information take a look at the README.
-    title = "¿Quién debería atender?"
-    subtitle = "Nuestro enfoque está en la comunidad de gente tecnológica cristiana. ¿Quiénes somos? ¿Qué hemos logrado en el año pasado? ¿Qué podemos aprender el uno del otro para trabajar de manera más eficaz en el año siguiente? ¿Acerca de cuáles avances tecnológicos y nuevas oportunidades en el campo misionera deberíamos de estar concientes?"
+    title = "¿Quién debería asistir?"
+    subtitle = "Nuestro enfoque está en la comunidad de gente tecnológica cristiana. ¿Quiénes somos? ¿Qué hemos logrado en el año pasado? ¿Qué podemos aprender el uno del otro para trabajar de manera más eficaz en el año siguiente? ¿Acerca de cuáles avances tecnológicos y nuevas oportunidades en el campo misionero deberíamos de estar conscientes?"
 
 
 [params.testimonials]
