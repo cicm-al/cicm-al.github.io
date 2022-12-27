@@ -1,6 +1,6 @@
 #baseurl = "https://devcows.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: 
 baseurl = "https://cicm-al.github.io"
-title = "Universal"
+title = "Conferencia Internacional de Computación y Misiones"
 theme = "hugo-universal-theme"
 #themesDir = "../.."
 languageCode = "es"
@@ -217,7 +217,7 @@ pluralizelisttitles = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
-    subtitle = "La CICM AL es una conferencia anual de mujeres y hombres que tienen un interés comón en computación y misiones. Compartimos la visión de una cooperación para el uso eficaz de tecnología con el fin de llevar el evangelio a cada nación."
+    subtitle = "La CICM AL es una conferencia anual de mujeres y hombres que tienen un interés común en computación y misiones. Compartimos la visión de una cooperación para el uso eficaz de tecnología con el fin de llevar el evangelio a cada nación."
 
 [params.attenders]
     enable = true
