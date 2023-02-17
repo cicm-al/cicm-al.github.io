@@ -23,5 +23,5 @@ Queremos tomarnos el tiempo y tener grupos de oración en los cuales podemos com
 ## Competencia "Tecnología para Misiones"
 
 En ese espacio podemos compartir si hemos desarollado un programa o algo similar para que otros lo conozcan e igual lo puedan usar en sus ministerios.
-Test message
+
 ---
