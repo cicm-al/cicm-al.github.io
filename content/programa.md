@@ -15,8 +15,9 @@ El es director y fundador de OPENBOLIVIA, licenciado en Teología en administrac
 Talleres de diferentes áreas van a ayudar a ampliar nuestro conocimiento. Si tienen algún tema que quieren compartir en ese formato les pedimos que se dirigan con nosotros.
 
 Temas de los talleres:
-* Introducción a la ciberseguridad
-* Otros por avisar
+#### Introducción a la ciberseguridad
+En ese taller queremos ver como nos podemos proteger en el trabajo y nuestra vida diaria ante las adversidades adentro del internet
+#### Otros por avisar
 
 <!--
 ## Grupos de interés
