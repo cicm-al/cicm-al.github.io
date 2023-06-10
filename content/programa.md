@@ -17,6 +17,14 @@ Talleres de diferentes áreas van a ayudar a ampliar nuestro conocimiento. Si ti
 Temas de los talleres:
 #### Introducción a la ciberseguridad
 En ese taller queremos ver como nos podemos proteger en el trabajo y nuestra vida diaria ante las adversidades adentro del internet
+#### Programas de código abierto
+Ese taller va tratar sobre los programas de código abierto.
+* Que es un programa
+* Que es un programa en código abierto
+* Mitos y certezas sobre el código abierto
+* Ventajas y desventajas de los programas en código abierto
+* Lista de los programas más conocidos en código abierto
+* Preguntas y respuestas
 #### Otros por avisar
 
 <!--
