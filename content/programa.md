@@ -4,6 +4,20 @@ title = "Programa"
 
 Estámos planeando tener una conferencia diversa. La siguientes partes van a complementar la conferencia.
 
+## Orden cronológico
+* Bienvenida y explicación sobre el horario
+* Tiempo de presentación en plenaria
+* Primera parte del discurso de apertura
+* Primera parte de grupos pequeños para conocerse
+* Descanso
+* Segunda parte del discurso de apertura
+* Segunda parte de grupos pequeños para contestar preguntas del conferencista y oración
+* Primera sesión de talleres
+* Descanso
+* Segunda sesión de talleres
+* Anuncios y despedida
+
+
 ## Discurso de apertura
 
 El tema es "Adoración a Dios en el lugar del trabajo" por parte del conferencista Jonathan Dean Steele.
@@ -25,6 +39,7 @@ Ese taller va tratar sobre los programas de código abierto.
 * Ventajas y desventajas de los programas en código abierto
 * Lista de los programas más conocidos en código abierto
 * Preguntas y respuestas
+#### ChatGPT e inteligencia artificial – uso y riesgos
 #### Otros por avisar
 
 <!--
