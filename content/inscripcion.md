@@ -2,6 +2,7 @@
 title = "Inscripción"
 +++
 
-Ya que se acerque la fecha vamos a dar más información acerca de como se pueden inscribir para la conferencia.
+Se pueden registrar mediante el siguiente enlace:
+https://cicm-al.security-companion.net/index.php/567433
 
 ---
