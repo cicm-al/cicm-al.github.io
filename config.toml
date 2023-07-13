@@ -43,9 +43,9 @@ pluralizelisttitles = false
     weight     = 3
 
 [[menu.main]]
-    identifier  = "Lista de correos"
-    name       = "Lista de correos"
-    url        = "/lista-de-correos/"
+    identifier  = "Chat"
+    name       = "Chat"
+    url        = "/chat/"
     weight     = 4
 
 [[menu.main]]
