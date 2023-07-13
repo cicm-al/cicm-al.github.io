@@ -26,22 +26,29 @@ El es director y fundador de OPENBOLIVIA, licenciado en Teología en administrac
 
 ## Talleres
 
-Talleres de diferentes áreas van a ayudar a ampliar nuestro conocimiento. Si tienen algún tema que quieren compartir en ese formato les pedimos que se dirigan con nosotros.
+Talleres de diferentes áreas van a ayudar a ampliar nuestro conocimiento. <!--Si tienen algún tema que quieren compartir en ese formato les pedimos que se dirigan con nosotros.-->
+
+Los temas de la sesión 1 se van a llevar a cabo al mismo tiempo lo que significa que los participantes podrán escoger uno de los 2 talleres de la sesión 1.
+Lo mismo aplica para la sesión 2: de los 3 talleres disponibles los participantes podrán escoger uno.
 
 Temas de los talleres:
-#### Introducción a la ciberseguridad
-En ese taller queremos ver como nos podemos proteger en el trabajo y nuestra vida diaria ante las adversidades adentro del internet
-#### Programas de código abierto
-Ese taller va tratar sobre los programas de código abierto.
-* Que es un programa
-* Que es un programa en código abierto
+#### Introducción a la ciberseguridad (sesión 1)
+En ese taller queremos ver como nos podemos proteger en el trabajo y nuestra vida diaria ante las adversidades usando las computadoras y el internet
+#### Blog desde zero con wordpress (sesión 1)
+Requisitos: Debido al tiempo limitado de la sesión se recomienda tener descargado e instalado el programa laragon el cual es un paquete que incluye varios programas que vamos a necesitar (Servidor Web Apache, Servidor de base de datos Mysql y lenguaje de programación PHP )
+Liga de descarga: https://laragon.org/download/index.html  (Download Laragon - Full (173 MB))
+#### Programas de código abierto (sesión 2)
+* ¿Que es un programa?
+* ¿Que es un programa en código abierto?
 * Mitos y certezas sobre el código abierto
 * Ventajas y desventajas de los programas en código abierto
 * Lista de los programas más conocidos en código abierto
 * Preguntas y respuestas
-#### ChatGPT e inteligencia artificial – uso y riesgos
-#### Otros por avisar
-
+#### ChatGPT e inteligencia artificial – uso y riesgos (sesión 2)
+En ese taller queremos ver usos y riesgos posibles en nuestra vida diaria al igual en la iglesia
+#### Autenticación de dos factores  (sesión 2)
+ * ¿Que Queremos? Seguridad?
+ * ¿Cuando la queremos? Cuando sea fácil!
 <!--
 ## Grupos de interés
 
