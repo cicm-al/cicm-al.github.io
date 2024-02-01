@@ -2,6 +2,11 @@
 title = "Programa"
 +++
 
+Aún estámos definiendo el programa para la conferencia del año 2024.
+Enseguida pueden el programa del año 2023 como referencia.
+
+# Programa del año 2023 como referencia
+
 Estámos planeando tener una conferencia diversa. La siguientes partes van a complementar la conferencia.
 
 ## Orden cronológico
