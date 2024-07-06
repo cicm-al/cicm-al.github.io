@@ -17,7 +17,7 @@ Estámos planeando tener una conferencia diversa. La siguientes partes van a com
 
 ## Discurso de apertura
 
-Nuestro conferencista va ser Julio Vallejos.
+Nuestro conferencista va ser Julio Vallejos con el tema "Adorando a Dios con tu profesión".
 
 ## Talleres
 
