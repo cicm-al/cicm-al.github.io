@@ -4,7 +4,7 @@ title = "Programa"
 
 # Programa
 
-Estámos planeando tener una conferencia diversa. La siguientes partes van a complementar la conferencia.
+Estámos planeando una conferencia diversa. La siguientes partes van a complementar la conferencia.
 
 ## Orden cronológico
 * Bienvenida y explicación sobre el horario
