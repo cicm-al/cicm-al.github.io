@@ -29,7 +29,7 @@ Lo mismo aplica para la sesión 2: de los 3 talleres disponibles los participant
 Temas de los talleres:
 #### Identificando estafas online
 En ese taller vamos a ver como nos podemos proteger de estafas usando la computadora como eg. phishing (correo no deseado).
-#### Piratería informática
+#### Los peligros de la piratería
 Em ese taller va enfocar el tema a tener mayor cuidado en el uso de aplicaciones de dudosas procedencias.
 <!--
 ## Grupos de interés
